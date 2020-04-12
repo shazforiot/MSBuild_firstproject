@@ -1,0 +1,13 @@
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.exe
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.deps.json
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.runtimeconfig.json
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.runtimeconfig.dev.json
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.dll
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.pdb
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.csprojAssemblyReference.cache
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.csproj.CoreCompileInputs.cache
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.AssemblyInfoInputs.cache
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.AssemblyInfo.cs
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.dll
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.pdb
+C:\Temp\MSBuild\sample\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.genruntimeconfig.cache

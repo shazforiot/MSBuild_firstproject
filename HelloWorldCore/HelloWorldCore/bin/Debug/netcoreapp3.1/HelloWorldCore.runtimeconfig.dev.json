@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kabeel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kabeel\\.nuget\\packages"
+    ]
+  }
+}
